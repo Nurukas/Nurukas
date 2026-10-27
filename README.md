@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nurukas
-- 👀 I’m interested in plasma/nuclear/particle physics, math, hikking, music, computational physics, 
+- 👀 I’m interested in plasma/nuclear physics and fluid dynamics, math, hiking, music, computational physics, 
 - 🌱 I’m currently on the final year of my undergraduate degree
 - 💞️ I’m looking for a funded PhD position or job...
 - 📫 How to reach me: nurzhancool@gmail.com
