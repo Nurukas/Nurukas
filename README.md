@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nurukas
 - 👀 I’m interested in plasma/nuclear/particle physics, math, hikking, music, computational physics, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently on the final year of my undergraduate degree
+- 💞️ I’m looking for a funded PhD position or job...
 - 📫 How to reach me: nurzhancool@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I once broke both my arms at the same time
 
 <!---
 Nurukas/Nurukas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
